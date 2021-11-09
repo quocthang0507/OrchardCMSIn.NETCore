@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PreserveCompilationReferences>true</PreserveCompilationReferences>
+    <AssemblyName>Orchard CMS In. NET Core</AssemblyName>
+    <Authors>La Quoc Thang</Authors>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="OrchardCore.Application.Cms.Core.Targets" Version="1.1.0" />
